@@ -29,7 +29,8 @@ To use the app, simply enter a GitHub username in the search input and click the
 Customization
 
 You can customize the styles of the app by modifying the CSS rules in the src/styles.css file. To add or modify features of the app, you can modify the React components in the src/App.js file.
-Built With
+
+## Built With
 
 This app was built using the following technologies:
 
