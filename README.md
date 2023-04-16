@@ -26,7 +26,8 @@ To run the app on your local machine, follow these steps:
 ## Usage
 
 To use the app, simply enter a GitHub username in the search input and click the "Search" button. The app will make an HTTP request to the GitHub API and display the matching user profiles.
-Customization
+
+## Customization
 
 You can customize the styles of the app by modifying the CSS rules in the src/styles.css file. To add or modify features of the app, you can modify the React components in the src/App.js file.
 
